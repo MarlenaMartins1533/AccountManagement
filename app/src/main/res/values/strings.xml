@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Payment Manager</string>
+    <string name="action_settings">Settings</string>
+    <string name="tab_name">Add Payment</string>
+</resources>
